@@ -69,6 +69,8 @@ Session.vim
 
 ### project special
 
+.idea/
+
 # ignore file in advio
 advio/deadlock
 advio/mandatory
