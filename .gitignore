@@ -1,0 +1,220 @@
+#### joe made this: https://goel.io/joe
+
+#####=== C ===#####
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+#### joe made this: https://goel.io/joe
+
+#####=== OSX ===#####
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+#### joe made this: https://goel.io/joe
+
+#####=== Vim ===#####
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### project special
+
+# ignore file in advio
+advio/deadlock
+advio/mandatory
+advio/mcopy2
+advio/nonblockw
+advio/rot13a
+advio/rot13c2
+# ignore file in datafiles
+datafiles/strftime
+# ignore file in db
+db/libapue_db.so
+db/libapue_db.so.1
+db/t4
+# ignore file in environ
+environ/doatexit
+environ/echoarg
+environ/getrlimit
+environ/hello1
+environ/testjmp
+# ignore file in exercises
+exercises/bo
+exercises/fifo1
+exercises/getlogin
+exercises/getpw44bsd
+exercises/goodexit
+exercises/longpath
+exercises/pendlock
+exercises/prtime
+exercises/sizepipe
+exercises/vfork3
+exercises/zombie
+# ignore file in figlinks
+figlinks/fig2.13
+figlinks/fig8.21
+# ignore file in filedir
+filedir/access
+filedir/cdpwd
+filedir/changemod
+filedir/devrdev
+filedir/filetype
+filedir/ftw8
+filedir/mycd
+filedir/umask
+filedir/unlink
+# ignore file in fileio
+fileio/fileflags
+fileio/hole
+fileio/mycat
+fileio/seek
+# ignore file in include
+# ignore file in intro
+intro/getcputc
+intro/hello
+intro/ls1
+intro/mycat
+intro/shell1
+intro/shell2
+intro/testerror
+intro/uidgid
+# ignore file in ipc1
+ipc1/add2
+ipc1/add2stdio
+ipc1/devzero
+ipc1/myuclc
+ipc1/pipe1
+ipc1/pipe2
+ipc1/pipe4
+ipc1/popen1
+ipc1/popen2
+ipc1/tshm
+# ignore file in ipc2
+ipc2/bindunix
+ipc2/open
+ipc2/open.fe
+ipc2/opend
+ipc2/opend.fe
+ipc2/pollmsg
+ipc2/sendmsg
+# ignore file in lib
+# ignore file in printer
+printer/print
+printer/printd
+# ignore file in proc
+proc/awkexample
+proc/echoall
+proc/exec1
+proc/exec2
+proc/fork1
+proc/fork2
+proc/nice
+proc/pracct
+proc/pruids
+proc/systest1
+proc/systest3
+proc/tellwait1
+proc/tellwait2
+proc/test1
+proc/times1
+proc/vfork1
+proc/wait1
+# ignore file in pty
+pty/pty
+# ignore file in relation
+relation/orphan3
+# ignore file in signals
+signals/critical
+signals/mask
+signals/read1
+signals/read2
+signals/reenter
+signals/sigtstp
+signals/sigusr
+signals/suspend1
+signals/suspend2
+signals/systest2
+signals/tsleep2
+# ignore file in sockets
+sockets/findsvc
+sockets/ruptime
+sockets/ruptime-dg
+sockets/ruptimed
+sockets/ruptimed-dg
+sockets/ruptimed-fd
+# ignore file in standards
+standards/conf
+standards/options
+# ignore file in stdio
+stdio/buf
+stdio/fgetsfputs
+stdio/getcharbug
+stdio/getcputc
+stdio/mkstemp
+stdio/tempfiles
+# ignore file in termios
+termios/csize
+termios/settty
+termios/t_getpass
+termios/t_isatty
+termios/t_raw
+termios/t_ttyname
+termios/winch
+# ignore file in threadctl
+threadctl/atfork
+threadctl/suspend
+# ignore file in threads
+threads/badexit2
+threads/cleanup
+threads/exitstatus
+threads/threadid

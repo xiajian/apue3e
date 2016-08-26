@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e4991fc-a573-4bf6-8b9f-142ca308fcfa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/access" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/add2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/add2stdio" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/atfork" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/badexit2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/bindunix" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/bo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/buf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/cdpwd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/changemod" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/cleanup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/critical" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/csize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/deadlock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/devrdev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/devzero" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/doatexit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/echoall" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/echoarg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/exec1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/exec2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/exitstatus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/fgetsfputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/fifo1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/fileflags" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/filetype" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/findsvc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/fork1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/fork2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/ftw8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/getcharbug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/getcputc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/getcputc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/getlogin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/getpw44bsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/getrlimit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/goodexit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/hello1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/hello" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/hole" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/longpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/ls1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/mandatory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/mask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/mcopy2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/mkstemp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/mycat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/mycat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/mycd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/myuclc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/nice" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/nonblockw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open/openclient" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open.fe/openclient" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/opend.poll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/opend.select" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/opend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/options" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/relation/orphan3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/pendlock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/pollmsg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/popen1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/popen2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/pracct" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/print" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/printd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/prtime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/pruids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pty/pty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/read1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/read2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/reenter" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/rot13a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/rot13c2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptime-dg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed-dg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed-fd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/seek" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/sendmsg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/settty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/shell1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/shell2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sigtstp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sigusr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/sizepipe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datafiles/strftime" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/suspend1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/suspend2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/suspend" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/systest1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/systest2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/systest3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/t4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_getpass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_isatty" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_raw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_ttyname" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/tellwait1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/tellwait2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/tempfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/test1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/testerror" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/testjmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/threadid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/times1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/tshm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/tsleep2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/uidgid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/umask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/unlink" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/vfork1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/vfork3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/wait1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/winch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/zombie" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DISCLAIMER" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Make.defines.freebsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Make.defines.linux" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Make.defines.macos" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Make.defines.solaris" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Make.libapue.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemons/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datafiles/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open.fe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pty/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/relation/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/Orecvfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/abort.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/access.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/add2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/add2stdio.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/include/apue.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/apue_db.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/asyncsocket.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/atfork.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/awkexample" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/badexit2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/barrier.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/bindunix.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/bo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/buf.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/bufargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/cdpwd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/changemod.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/child.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/clconn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/clconn2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/cleanup.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/cliargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/cliargs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cliconn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/client.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/clrfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/cmd1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/cmd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/condvar.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/conf.c.modified" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/conf.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/critical.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/csize.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/ctermid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/daemonize.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/db.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/deadlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/detach.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/devrdev.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/devzero.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/doatexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pty/driver.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/echoall.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/echoarg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/error.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/errorlog.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/exec1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/exec2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/exitstatus.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/fgetsfputs.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/fifo1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig1.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig10.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig11.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig12.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig13.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig13.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig13.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig13.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig13.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig14.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.33" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.35" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig15.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig16.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.19" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.26" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.27" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig17.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig18.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig19.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig19.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig19.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig19.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig19.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig2.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig2.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig2.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig2.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig20.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig3.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig3.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig3.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig3.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig3.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig4.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig5.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig6.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig6.2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig7.9" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.25" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.30" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.31" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig8.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/fig9.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figB.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figB.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figB.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.15" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.16" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.18" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.20" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.22" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.24" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.6" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/figlinks/figC.8" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/fileflags.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/filetype.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/findsvc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/fixup.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/fmemopen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/fork1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/fork2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/ftw8.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/getcharbug.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/getcputc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/getcputc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/getenv1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/getenv2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/getenv3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/getlogin.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/getpass.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/getpw44bsd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datafiles/getpwnam.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/getpwsvr4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/getrlimit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/goodexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/hello.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/hello1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/hole.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemons/init.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/initsrv1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/initsrv2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/ipp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/isatty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/lockfile.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/lockreg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/locktest.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/longpath.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pty/loop.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/loop.poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/loop.select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/ls1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open.fe/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pty/main.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/makeconf.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/makeopt.awk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/maketimeout.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/mandatory.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/mask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/mcopy2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/memstr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/mkstemp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/mutex1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/mutex2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/mutex3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/mycat.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/mycat.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/mycd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/myuclc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/nice.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/nonblockw.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/nspipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open/open.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open.fe/open.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open/open.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/open.fe/open.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/opend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/opend.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/opendata.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/openmax.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/openmax.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/options.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/relation/orphan3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/pathalloc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/pathconf-lim.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/pathconf-opt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/pathconf.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/pathopt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/pendlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/pipe4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/pollmsg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/pollmsg2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/popen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/popen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/popen1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/popen2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/pracct.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/prexit.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/print.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/print.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/printd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/prmask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/prtime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/pruids.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ptyfork.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ptyopen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/read1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/read2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/readn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/readn.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/recvfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/recvfd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/reenter.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend/request.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/opend.fe/request.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemons/reread.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemons/reread2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/rot13a.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/rot13c2.c.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/rot13c2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptime-dg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed-dg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed-fd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sockets/ruptimed.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/rwlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/scope.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/seek.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/semaph.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/senderr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sendfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/sendfd2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc2/sendmsg.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/servaccept.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/servlisten.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/setfd.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fileio/setfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/setfl.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/setops.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/settty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/shell1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/shell2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/signal.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/signalintr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sigtstp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sigusr.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daemons/single.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/sizepipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/sleep.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sleep.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sleep1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/sleep2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sleepus.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/sleepus_poll.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/sleepus_select.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/slock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/slock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/spipe.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/strerror.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/datafiles/strftime.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/suspend.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/suspend1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/suspend2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/sysconf-lim.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/sysconf-opt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/sysconf.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/standards/sysopt.sym" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/system.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/system.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/systest1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/systest2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/systest3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/systype.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/t4.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_getpass.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_isatty.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_raw.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/t_ttyname.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/tellwait.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tellwait.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/tellwait1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/tellwait2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stdio/tempfiles.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/test1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/testerror.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/environ/testjmp.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/threadid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads/timedlock.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threadctl/timeout.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/times1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ipc1/tshm.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signals/tsleep2.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ttymodes.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/ttyname.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/intro/uidgid.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/umask.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/unlink.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/printer/util.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/vfork1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/vfork3.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proc/wait1.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/termios/winch.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/writen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/writen.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advio/xlate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/filedir/zap.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/zombie.c" />
+    </list>
+    <ignored path="apue3e.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="apue3e" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="apue3e" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4991fc-a573-4bf6-8b9f-142ca308fcfa" name="Default" comment="" />
+      <created>1472197024117</created>
+      <option name="number" value="Default" />
+      <updated>1472197024117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
